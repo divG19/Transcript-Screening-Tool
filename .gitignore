@@ -1,0 +1,18 @@
+# Student transcripts and any PDF inputs/outputs — never commit (FERPA)
+*.pdf
+processed_transcripts/
+
+# Local session state (contains machine-specific folder paths)
+session_config.json
+
+# Distribution artifacts — the repo ships source only
+improved_search.exe
+tesseract/
+build/
+dist/
+*.spec
+
+# General
+__pycache__/
+.venv/
+.env
