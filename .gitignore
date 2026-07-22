@@ -1,5 +1,6 @@
 # Student transcripts and any PDF inputs/outputs — never commit (FERPA)
 *.pdf
+transcripts/
 processed_transcripts/
 
 # Local session state (contains machine-specific folder paths)
